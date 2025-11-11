@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "lv_mainstart.h": "c",
+        "lv_examples.h": "c",
+        "stdlib.h": "c",
+        "lv_demos.h": "c",
+        "lvgl.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "lv_types.h": "c",
+        "stdint.h": "c"
+    },
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    }
+}
